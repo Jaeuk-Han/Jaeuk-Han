@@ -10,7 +10,7 @@ I am interested in Natural Language Processing (NLP), Information Retrieval, and
 ---
 
 <p align="center">
-  <b>TECH STACK</b> ⚡
+  <b>TECH STACK</b>
 </p>
 
 <!-- Languages -->
