@@ -4,10 +4,21 @@
 ---
 ## About Me
 
-Hello! My name is Jaeuk Han, an undergraduate student at Gachon University.  
-I am interested in Natural Language Processing (NLP), Information Retrieval, and Reinforcement Learning.
+Hello! My name is Jaeuk Han, an undergraduate student at Gachon University majoring in AI and Software.  
+I am passionate about **Natural Language Processing (NLP)**, **Information Retrieval**, and **Reinforcement Learning**.  
 
----
+I enjoy exploring how language technologies can be applied to both academic and real-world problems.  
+In particular, I am working on projects such as:  
+- **Retrieval-Augmented Generation (RAG) systems** for Korean language tasks  
+- **Pokémon-themed AI agents** that combine LLMs with reinforcement learning environments  
+- **Data collection and preprocessing pipelines** using crawling, parsing, and dataset building  
+
+Beyond technical skills, I am also interested in how AI can support cultural and creative fields.  
+For example, I have built datasets around **traditional Korean brewing culture** and used them to design  
+interactive demos for educational and research purposes.  
+
+My long-term goal is to become a researcher and developer who bridges technology and culture,  
+contributes to open-source communities, and continuously shares knowledge through GitHub, Kaggle, and blogging.
 
 ## What I Use
 
