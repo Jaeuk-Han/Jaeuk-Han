@@ -5,7 +5,11 @@
 ---
 
 Hello! My name is Jaeuk Han, an undergraduate student at Gachon University.  
-I am interested in Natural Language Processing (NLP), Information Retrieval, and Reinforcement Learning.  
+I am interested in Natural Language Processing (NLP), Information Retrieval, and Reinforcement Learning.
+
+---
+
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
 
 <!--
 **Jaeuk-Han/Jaeuk-Han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
