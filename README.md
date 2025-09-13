@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me
 
 Hello! My name is Jaeuk Han, an undergraduate student at Gachon University.  
 I am interested in Natural Language Processing (NLP), Information Retrieval, and Reinforcement Learning.  
