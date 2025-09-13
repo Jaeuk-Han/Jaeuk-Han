@@ -1,4 +1,3 @@
-## <a id="About">
 
 ![About](https://capsule-render.vercel.app/api?type=cylinder&height=225&color=timeAuto&text=Hi,%20I'm%20Jaeuk%20Han&animation=fadeIn&desc=NLP,%20AI%20Enthusiast&descAlignY=71&descSize=35&fontAlignY=45)
 
