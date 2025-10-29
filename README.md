@@ -74,8 +74,6 @@ Long-term, I aim to bridge technology and culture as a researcher-developer, con
   <a href="https://python-poetry.org/"><img src="https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white"/></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaeuk-Han&layout=compact)
-
 <!--
 **Jaeuk-Han/Jaeuk-Han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
