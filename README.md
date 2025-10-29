@@ -3,9 +3,6 @@
 
 ---
 ## About Me
-
-AI · Software @ Gachon Univ | Undergraduate
-
 Hello, I’m Jaeuk Han.  
 I am an undergraduate in the AI · Software Department at Gachon University and an undergraduate RA at the ISNLP Lab.  
 My interests include **Natural Language Processing (NLP)**, **Information Retrieval (IR)**, and **Reinforcement Learning (RL)**, with a focus on reproducible experiments and practical system building.
@@ -38,17 +35,13 @@ Long-term, I aim to bridge technology and culture as a researcher-developer, con
 ---
 
 ## 🗂️ Featured Projects
-- **taekwang-ai-lectures-2024** — Public archive of high-school AI teaching materials (slides/notebooks).  
-  — [Repo](https://github.com/Jaeuk-Han/taekwang-ai-lectures-2024)
+- [**taekwang-ai-lectures-2024**](https://github.com/Jaeuk-Han/taekwang-ai-lectures-2024) — Public archive of high-school AI teaching materials (slides/notebooks).  
 
-- **Korean Traditional Liquor RAG** — Structured late-19th–20th century manuscripts on traditional liquors and built an **evidence-grounded Q&A** demo. 🍶  
-  — [Repo](https://github.com/Jaeuk-Han/korean-traditional-liquor-dataset)
+- [**Korean Traditional Liquor RAG**](https://github.com/Jaeuk-Han/korean-traditional-liquor-dataset) — Structured late-19th–20th century manuscripts on traditional liquors and built an **evidence-grounded Q&A** demo. 🍶  
 
-- **law-demand-dashboard** — Matches topic-clustered news/SNS to relevant bills and visualizes results as a **static leaderboard**.  
-  — [Repo](https://github.com/Jaeuk-Han/law-demand-dashboard)
+- [**law-demand-dashboard**](https://github.com/Jaeuk-Han/law-demand-dashboard) — Matches topic-clustered news/SNS to relevant bills and visualizes results as a **static leaderboard**.  
 
-- **poke-llm** — LLM agent for Pokémon Showdown; dual-embedding + RL experiments (in progress).  
-  — [Repo](https://github.com/Jaeuk-Han/poke-llm)
+- [**poke-llm**](https://github.com/Jaeuk-Han/poke-llm) — LLM agent for Pokémon Showdown; dual-embedding + RL experiments (in progress).
 
 > For more projects, please check my full repositories list.
 
@@ -80,6 +73,8 @@ Long-term, I aim to bridge technology and culture as a researcher-developer, con
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
   <a href="https://python-poetry.org/"><img src="https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white"/></a>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaeuk-Han&layout=compact)
 
 <!--
 **Jaeuk-Han/Jaeuk-Han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
