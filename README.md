@@ -4,21 +4,55 @@
 ---
 ## About Me
 
-Hello! My name is Jaeuk Han, an undergraduate student at Gachon University majoring in AI and Software.  
-I am passionate about **Natural Language Processing (NLP)**, **Information Retrieval**, and **Reinforcement Learning**.  
+AI · Software @ Gachon Univ | Undergraduate
 
-I enjoy exploring how language technologies can be applied to both academic and real-world problems.  
-In particular, I am working on projects such as:  
-- **Retrieval-Augmented Generation (RAG) systems** for Korean language tasks  
-- **Pokémon-themed AI agents** that combine LLMs with reinforcement learning environments  
-- **Data collection and preprocessing pipelines** using crawling, parsing, and dataset building  
+Hello, I’m Jaeuk Han.  
+I am an undergraduate in the AI · Software Department at Gachon University and an undergraduate RA at the ISNLP Lab.  
+My interests include **Natural Language Processing (NLP)**, **Information Retrieval (IR)**, and **Reinforcement Learning (RL)**, with a focus on reproducible experiments and practical system building.
 
-Beyond technical skills, I am also interested in how AI can support cultural and creative fields.  
-For example, I have built datasets around **traditional Korean brewing culture** and used them to design  
-interactive demos for educational and research purposes.  
+**RAG Systems:** Korean-focused dual-encoder + reranker pipelines and evidence-grounded Q&A demos.
 
-My long-term goal is to become a researcher and developer who bridges technology and culture,  
-contributes to open-source communities, and continuously shares knowledge through GitHub, Kaggle, and blogging.
+**LLM Agents:** Experiments combining LLM reasoning with RL training/evaluation in a Pokémon environment.
+
+**Data Engineering:** End-to-end pipelines for crawling, parsing, unit/notation normalization, and metadata enrichment.
+
+I’m also interested in how technology can support culture and education. For example, I structured historical manuscripts on Korean traditional liquors (886–1947) into a searchable knowledge base and built interactive demos based on it.  
+Long-term, I aim to bridge technology and culture as a researcher-developer, contributing to open source and sharing knowledge consistently (GitHub, Kaggle, blog).
+
+---
+
+## Interests
+- **Retrieval-Augmented Generation (RAG)**
+- **Retriever / Reranker**
+- **Reinforcement Learning (RL)**
+
+---
+
+## 💼 Experience
+- **Assistant Instructor, Taekwang High School — "4th Industrial Revolution & Mathematics" Club**  
+  Delivered 8 sessions (3 hours each) on topics such as linear regression, deep learning, and Arduino. Created slides and hands-on notebooks.
+
+- **Undergraduate Research Assistant (RA), ISNLP Lab — Gachon Univ.**  
+  Developed RAG pipelines for competitions (dual encoder, reranker, evaluation automation), conducted MNR/GRPO experiments, and prepared seminar materials.
+
+---
+
+## 🗂️ Featured Projects
+- **taekwang-ai-lectures-2024** — Public archive of high-school AI teaching materials (slides/notebooks).  
+  — [Repo](https://github.com/Jaeuk-Han/taekwang-ai-lectures-2024)
+
+- **Korean Traditional Liquor RAG** — Structured late-19th–20th century manuscripts on traditional liquors and built an **evidence-grounded Q&A** demo. 🍶  
+  — [Repo](https://github.com/Jaeuk-Han/korean-traditional-liquor-dataset)
+
+- **law-demand-dashboard** — Matches topic-clustered news/SNS to relevant bills and visualizes results as a **static leaderboard**.  
+  — [Repo](https://github.com/Jaeuk-Han/law-demand-dashboard)
+
+- **poke-llm** — LLM agent for Pokémon Showdown; dual-embedding + RL experiments (in progress).  
+  — [Repo](https://github.com/Jaeuk-Han/poke-llm)
+
+> For more projects, please check my full repositories list.
+
+---
 
 ## What I Use
 
