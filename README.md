@@ -26,22 +26,22 @@ Long-term, I aim to bridge technology and culture as a researcher-developer, con
 ---
 
 ## 💼 Experience
-- **Assistant Instructor, Taekwang High School — "4th Industrial Revolution & Mathematics" Club**  
+- **Assistant Instructor, Taekwang High School - "4th Industrial Revolution & Mathematics" Club**  
   Delivered 8 sessions (3 hours each) on topics such as linear regression, deep learning, and Arduino. Created slides and hands-on notebooks.
 
-- **Undergraduate Research Assistant (RA), ISNLP Lab — Gachon Univ.**  
+- **Undergraduate Research Assistant (RA), ISNLP Lab - Gachon Univ.**  
   Developed RAG pipelines for competitions (dual encoder, reranker, evaluation automation), conducted MNR/GRPO experiments, and prepared seminar materials.
 
 ---
 
 ## 🗂️ Featured Projects
-- [**taekwang-ai-lectures-2024**](https://github.com/Jaeuk-Han/taekwang-ai-lectures-2024) — Public archive of high-school AI teaching materials (slides/notebooks).  
+- [**taekwang-ai-lectures-2024**](https://github.com/Jaeuk-Han/taekwang-ai-lectures-2024) - Public archive of high-school AI teaching materials (slides/notebooks).  
 
-- [**Korean Traditional Liquor RAG**](https://github.com/Jaeuk-Han/korean-traditional-liquor-dataset) — Structured late-19th–20th century manuscripts on traditional liquors and built an **evidence-grounded Q&A** demo. 🍶  
+- [**Korean Traditional Liquor RAG**](https://github.com/Jaeuk-Han/korean-traditional-liquor-dataset) - Structured late-19th–20th century manuscripts on traditional liquors and built an **evidence-grounded Q&A** demo. 🍶  
 
-- [**law-demand-dashboard**](https://github.com/Jaeuk-Han/law-demand-dashboard) — Matches topic-clustered news/SNS to relevant bills and visualizes results as a **static leaderboard**.  
+- [**law-demand-dashboard**](https://github.com/Jaeuk-Han/law-demand-dashboard) - Matches topic-clustered news/SNS to relevant bills and visualizes results as a **static leaderboard**.  
 
-- [**poke-llm**](https://github.com/Jaeuk-Han/poke-llm) — LLM agent for Pokémon Showdown; dual-embedding + RL experiments (in progress).
+- [**poke-llm**](https://github.com/Jaeuk-Han/poke-llm) - LLM agent for Pokémon Showdown; dual-embedding + RL experiments (in progress).
 
 > For more projects, please check my full repositories list.
 
