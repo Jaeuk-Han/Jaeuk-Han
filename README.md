@@ -41,7 +41,11 @@ Long-term, I aim to bridge technology and culture as a researcher-developer, con
 
 - [**law-demand-dashboard**](https://github.com/Jaeuk-Han/law-demand-dashboard) - Matches topic-clustered news/SNS to relevant bills and visualizes results as a **static leaderboard**.  
 
-- [**poke-llm**](https://github.com/Jaeuk-Han/poke-llm) - LLM agent for Pokémon Showdown; dual-embedding + RL experiments (in progress).
+- [**2025 AI Malpyeong Competition (NIKL)**](https://github.com/Jaeuk-Han/Korean_QA_RAG_2025) - *Qualified for the Final Round* (Jun 2025 – Sep 2025)  
+  Built iterative pipelines across retrieval → generation → evaluation, focusing on evidence retrieval quality and strict constraint-following.
+
+- [**The 2nd Medical AI (MAI) Competition (Korea University College of Medicine)**](https://github.com/Jaeuk-Han/glm-mutation-embeddings) - *Solo, Top 6%* (Nov 2025 – Dec 2025)  
+  Designed metric-aligned objectives and ran systematic ablations across backbone/pooling/head variants for representation learning.
 
 > For more projects, please check my full repositories list.
 
