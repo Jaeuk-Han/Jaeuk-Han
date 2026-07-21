@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="mailto:jaeuk0228@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/%EC%9E%AC%EC%9A%B1-%ED%95%9C-aab6912b2/">LinkedIn</a>
 </p>
 
 ---
@@ -35,9 +36,9 @@ Built a Korean grammar QA system combining a **dual-encoder retriever**, hard-ne
 
 Structured **3,500+ recipes from 132 historical texts (886-1947)** and developed an evidence-grounded QA pipeline using BM25, dense retrieval, MMR, and cross-encoder reranking.
 
-### [Emergency Room Recommendation & Triage Support](https://github.com/Jaeuk-Han/2025-ermct-project)
+### [VITAL](https://github.com/Jaeuk-Han/2025-ermct-project)
 
-Developed a real-time emergency room recommendation system using public medical APIs, hospital resource data, FastAPI, map-based routing, and interpretable pre-KTAS logic.
+**Voice-based Intelligent Triage & Ambulance Link** — Developed a real-time emergency room recommendation system using public medical APIs, hospital resource data, FastAPI, map-based routing, and interpretable pre-KTAS logic.
 
 ### [Mutation-sensitive DNA Embeddings](https://github.com/Jaeuk-Han/glm-mutation-embeddings)
 
@@ -46,7 +47,7 @@ Built an end-to-end representation-learning pipeline for genomic mutations and c
 ## Experience
 
 - **Research Intern, [CONNECT-AI Research Center](https://connectaiyonsei.wixsite.com/connect-ai) — Yonsei University Health System** · Jul 2026-Present  
-  Medical AI research internship at a center focused on medical imaging, health data, and AI-based clinical applications.
+  Working on LLM-based triage research as part of a government-funded project related to the National Fire Agency.
 
 - **NAVER Cloud Academy — Generative AI Advanced Program** · May-Jun 2026  
   Completed advanced training in generative AI and received the NAVER Cloud CEO Award as an outstanding trainee.
