@@ -56,7 +56,7 @@ Built an end-to-end representation-learning pipeline for genomic mutations and c
   Developed retrieval-augmented pipelines and conducted experiments in dense retrieval, LoRA, GRPO, and reliability evaluation.
 
 - **AI & Robotics Instructor, Taekwang High School** · May-Oct 2024  
-  Delivered workshops and special lectures on machine learning, deep learning, and Arduino using original slides and hands-on notebooks.
+  Delivered workshops and special lectures on machine learning, deep learning, and Arduino using slides and hands-on notebooks.
 
 ## What I Use
 
