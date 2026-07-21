@@ -4,11 +4,6 @@
   AI & Software @ Gachon University · Korean NLP · Information Retrieval · Human-AI Interaction
 </p>
 
-<p align="center">
-  <a href="mailto:jaeuk0228@gmail.com">Email</a> ·
-  <a href="https://github.com/Jaeuk-Han">GitHub</a>
-</p>
-
 ---
 
 ## About Me
