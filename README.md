@@ -52,7 +52,7 @@ Built an end-to-end representation-learning pipeline for genomic mutations and c
 - **NAVER Cloud Academy — Generative AI Advanced Program** · May-Jun 2026  
   Completed advanced training in generative AI and received the NAVER Cloud CEO Award as an outstanding trainee.
 
-- **Undergraduate Research Assistant, ISNLP Lab — Gachon University** · Aug-Dec 2025  
+- **Undergraduate Research Assistant, [ISNLP Lab](https://sites.google.com/view/kangsangwoo) — Gachon University** · Aug-Dec 2025  
   Developed retrieval-augmented pipelines and conducted experiments in dense retrieval, LoRA, GRPO, and reliability evaluation.
 
 - **AI & Robotics Instructor, Taekwang High School** · May-Oct 2024  
