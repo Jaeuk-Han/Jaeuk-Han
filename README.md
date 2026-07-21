@@ -4,6 +4,10 @@
   AI & Software @ Gachon University · Korean NLP · Information Retrieval · Human-AI Interaction
 </p>
 
+<p align="center">
+  <a href="mailto:jaeuk0228@gmail.com">Email</a> ·
+</p>
+
 ---
 
 ## About Me
@@ -40,6 +44,9 @@ Developed a real-time emergency room recommendation system using public medical 
 Built an end-to-end representation-learning pipeline for genomic mutations and conducted systematic ablations across backbones, pooling strategies, and projection heads. Ranked in the **top 7% as a solo participant** in the 2nd Medical AI Competition.
 
 ## Experience
+
+- **Research Intern, [CONNECT-AI Research Center](https://connectaiyonsei.wixsite.com/connect-ai) — Yonsei University Health System** · Jul 2026-Present  
+  Medical AI research internship at a center focused on medical imaging, health data, and AI-based clinical applications.
 
 - **NAVER Cloud Academy — Generative AI Advanced Program** · May-Jun 2026  
   Completed advanced training in generative AI and received the NAVER Cloud CEO Award as an outstanding trainee.
