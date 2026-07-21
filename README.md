@@ -1,94 +1,79 @@
+<h1 align="center">Hi, I'm Jaeuk Han 👋</h1>
 
-![About](https://capsule-render.vercel.app/api?type=cylinder&height=225&color=timeAuto&text=Hi,%20I'm%20Jaeuk%20Han&animation=fadeIn&desc=NLP,%20AI%20Enthusiast&descAlignY=71&descSize=35&fontAlignY=45)
+<p align="center">
+  <strong>AI researcher and developer building reliable LLM, RAG, and decision-support systems.</strong>
+</p>
+
+<p align="center">
+  AI & Software @ Gachon University · Korean NLP · Information Retrieval · Human-AI Interaction
+</p>
+
+<p align="center">
+  <a href="mailto:jaeuk0228@gmail.com">Email</a> ·
+  <a href="https://github.com/Jaeuk-Han">GitHub</a>
+</p>
 
 ---
+
 ## About Me
-Hello, I’m Jaeuk Han.  
-I am an undergraduate in the AI · Software Department at Gachon University and an undergraduate RA at the ISNLP Lab.  
-My interests include **Natural Language Processing (NLP)**, **Information Retrieval (IR)**, and **Reinforcement Learning (RL)**, with a focus on reproducible experiments and practical system building.
 
-**RAG Systems:** Korean-focused dual-encoder + reranker pipelines and evidence-grounded Q&A demos.
+I am an undergraduate in the Department of AI & Software at Gachon University, interested in building AI systems that are reliable, useful, and grounded in evidence.
 
-**LLM Agents:** Experiments combining LLM reasoning with RL training/evaluation in a Pokémon environment.
+My work spans **Korean NLP**, **retrieval-augmented generation**, **LLM fine-tuning**, and **human-centered decision support**. I have developed dense retrieval and reranking pipelines, applied LoRA and GRPO-based fine-tuning, and built AI applications for language, cultural heritage, legislative analysis, and emergency medicine.
 
-**Data Engineering:** End-to-end pipelines for crawling, parsing, unit/notation normalization, and metadata enrichment.
+I am especially interested in connecting rigorous experimentation with real-world applications in **culture, education, and public services**.
 
-I’m also interested in how technology can support culture and education. For example, I structured historical manuscripts on Korean traditional liquors (886–1947) into a searchable knowledge base and built interactive demos based on it.  
-Long-term, I aim to bridge technology and culture as a researcher-developer, contributing to open source and sharing knowledge consistently (GitHub, Kaggle, blog).
+## Recent Highlights
+
+- 🏆 **Outstanding Trainee, NAVER Cloud CEO Award** (우수교육생 · 네이버클라우드 대표이사상), NAVER Cloud Academy Generative AI Advanced Program, 2026
+- ☁️ **NAVER Cloud Platform Certified Professional AI (NCP-AI)**, 2026
+- 🥇 **Finalist**, 2025 AI Malpyeong Competition, National Institute of Korean Language
+- 🧬 **Solo Top 7%**, The 2nd Medical AI Competition, Korea University College of Medicine
+
+## Selected Work
+
+### [Korean Grammar QA RAG](https://github.com/Jaeuk-Han/Korean_QA_RAG_2025)
+
+Built a Korean grammar QA system combining a **dual-encoder retriever**, hard-negative training, cross-encoder reranking, and **GRPO-based generation**. Qualified for the final round of the 2025 AI Malpyeong Competition.
+
+### [Korean Traditional Liquor RAG](https://github.com/Jaeuk-Han/korean-traditional-liquor-dataset)
+
+Structured **3,500+ recipes from 132 historical texts (886-1947)** and developed an evidence-grounded QA pipeline using BM25, dense retrieval, MMR, and cross-encoder reranking.
+
+### [Emergency Room Recommendation & Triage Support](https://github.com/Jaeuk-Han/2025-ermct-project)
+
+Developed a real-time emergency room recommendation system using public medical APIs, hospital resource data, FastAPI, map-based routing, and interpretable pre-KTAS logic.
+
+### [Mutation-sensitive DNA Embeddings](https://github.com/Jaeuk-Han/glm-mutation-embeddings)
+
+Built an end-to-end representation-learning pipeline for genomic mutations and conducted systematic ablations across backbones, pooling strategies, and projection heads. Ranked in the **top 7% as a solo participant** in the 2nd Medical AI Competition.
+
+## Experience
+
+- **NAVER Cloud Academy — Generative AI Advanced Program** · May-Jun 2026  
+  Completed advanced training in generative AI and received the NAVER Cloud CEO Award as an outstanding trainee.
+
+- **Undergraduate Research Assistant, ISNLP Lab — Gachon University** · Aug-Dec 2025  
+  Developed retrieval-augmented pipelines and conducted experiments in dense retrieval, LoRA, GRPO, and reliability evaluation.
+
+- **AI & Robotics Instructor, Taekwang High School** · May-Oct 2024  
+  Delivered workshops and special lectures on machine learning, deep learning, and Arduino using original slides and hands-on notebooks.
+
+## Skills
+
+**AI/ML:** Python · PyTorch · Hugging Face Transformers · scikit-learn  
+**Retrieval & Fine-tuning:** Dense Retrieval · Reranking · LoRA/PEFT · GRPO  
+**Application:** FastAPI · Gradio · Data Pipelines · Evaluation Automation  
+**Tools:** Git · GitHub · Poetry · Jupyter
+
+## Certifications & Recognition
+
+- **NAVER Cloud Platform Certified Professional AI (NCP-AI)** · 2026
+- **TOPCIT Level 3** · Nov 2025
+- **NAVER Cloud CEO Award — Outstanding Trainee** · 2026
 
 ---
 
-## Interests
-- **Retrieval-Augmented Generation (RAG)**
-- **Retriever / Reranker**
-- **Reinforcement Learning (RL)**
-
----
-
-## 💼 Experience
-- **Assistant Instructor, Taekwang High School - "4th Industrial Revolution & Mathematics" Club**  
-  Delivered 8 sessions (3 hours each) on topics such as linear regression, deep learning, and Arduino. Created slides and hands-on notebooks.
-
-- **Undergraduate Research Assistant (RA), ISNLP Lab - Gachon Univ.**  
-  Developed RAG pipelines for competitions (dual encoder, reranker, evaluation automation), conducted MNR/GRPO experiments, and prepared seminar materials.
-
----
-
-## 🗂️ Featured Projects
-- [**taekwang-ai-lectures-2024**](https://github.com/Jaeuk-Han/taekwang-ai-lectures-2024) - Public archive of high-school AI teaching materials (slides/notebooks).  
-
-- [**Korean Traditional Liquor RAG**](https://github.com/Jaeuk-Han/korean-traditional-liquor-dataset) - Structured late-19th–20th century manuscripts on traditional liquors and built an **evidence-grounded Q&A** demo. 🍶  
-
-- [**law-demand-dashboard**](https://github.com/Jaeuk-Han/law-demand-dashboard) - Matches topic-clustered news/SNS to relevant bills and visualizes results as a **static leaderboard**.  
-
-- [**2025 AI Malpyeong Competition (NIKL)**](https://github.com/Jaeuk-Han/Korean_QA_RAG_2025) - *Qualified for the Final Round* (Jun 2025 – Sep 2025)  
-  Built iterative pipelines across retrieval → generation → evaluation, focusing on evidence retrieval quality and strict constraint-following.
-
-- [**The 2nd Medical AI (MAI) Competition (Korea University College of Medicine)**](https://github.com/Jaeuk-Han/glm-mutation-embeddings) - *Solo, Top 6%* (Nov 2025 – Dec 2025)  
-  Designed metric-aligned objectives and ran systematic ablations across backbone/pooling/head variants for representation learning.
-
-> For more projects, please check my full repositories list.
-
----
-
-## What I Use
-
-<!-- Languages -->
 <p align="center">
-  <b>Languages</b><br><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  Open to research collaboration and projects in NLP, retrieval, reliable AI, and human-centered AI systems.
 </p>
-
-<!-- Frameworks & Libraries -->
-<p align="center">
-  <b>Frameworks & Libraries</b><br><br>
-  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
-  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
-  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/></a>
-  <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-2C2C2C?style=for-the-badge&logo=chainlink&logoColor=white"/></a>
-  <a href="https://www.gradio.app/"><img src="https://img.shields.io/badge/Gradio-FF4B4B?style=for-the-badge&logo=gradio&logoColor=white"/></a>
-</p>
-
-<!-- Tools -->
-<p align="center">
-  <b>Tools</b><br><br>
-  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-  <a href="https://python-poetry.org/"><img src="https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white"/></a>
-</p>
-
-<!--
-**Jaeuk-Han/Jaeuk-Han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
