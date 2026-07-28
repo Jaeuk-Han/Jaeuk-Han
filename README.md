@@ -23,7 +23,7 @@ I am especially interested in connecting rigorous experimentation with real-worl
 
 - 🏆 **Outstanding Trainee, NAVER Cloud CEO Award** (우수교육생 · 네이버클라우드 대표이사상), NAVER Cloud Academy Generative AI Advanced Program, 2026
 - ☁️ **NAVER Cloud Platform Certified Professional AI (NCP-AI)**, 2026
-- 🥇 **Finalist**, 2025 AI Malpyeong Competition, National Institute of Korean Language
+- 🏁 **Finalist**, 2025 AI Malpyeong Competition, National Institute of Korean Language
 - 🧬 **Solo Top 7%**, The 2nd Medical AI Competition, Korea University College of Medicine
 
 ## Selected Work
