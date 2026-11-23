@@ -17,7 +17,7 @@ I'm an AI & Software undergraduate at Gachon University. I'm interested in large
 
 ## Recent Highlights
 
-- **Best Poster Presentation Award** · 13th Asian Pacific Conference on Medical and Biological Engineering (APCMBE 2026), Daegu · Nov 2026
+- **Best Poster Presentation Award** · APCMBE 2026 · Nov 2026
 - 🏆 **Outstanding Trainee, NAVER Cloud CEO Award** (우수교육생 · 네이버클라우드 대표이사상), NAVER Cloud Academy Generative AI Advanced Program, 2026
 - ☁️ **NAVER Cloud Platform Certified Professional AI (NCP-AI)**, 2026
 - 🏁 **Finalist**, 2025 AI Malpyeong Competition, National Institute of Korean Language
