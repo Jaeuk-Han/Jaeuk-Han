@@ -1,7 +1,7 @@
 ![Jaeuk Han | Large Language Models](https://capsule-render.vercel.app/api?type=cylinder&height=225&color=timeAuto&text=Hi,%20I'm%20Jaeuk%20Han&animation=fadeIn&desc=Large%20Language%20Models&descAlignY=71&descSize=35&fontAlignY=45)
 
 <p align="center">
-  AI & Software @ Gachon University · Natural Language Processing
+  AI & Software @ Gachon University · Korean NLP · Information Retrieval · Human-AI Interaction
 </p>
 
 <p align="center">
@@ -15,13 +15,17 @@
 
 I'm an AI & Software undergraduate at Gachon University. I'm interested in large language models (LLMs), especially their applications in medicine.
 
-## Awards
+## Recent Highlights
 
 - **Best Poster Presentation Award** · 13th Asian Pacific Conference on Medical and Biological Engineering (APCMBE 2026), Daegu · Nov 2026
+- 🏆 **Outstanding Trainee, NAVER Cloud CEO Award** (우수교육생 · 네이버클라우드 대표이사상), NAVER Cloud Academy Generative AI Advanced Program, 2026
+- ☁️ **NAVER Cloud Platform Certified Professional AI (NCP-AI)**, 2026
+- 🏁 **Finalist**, 2025 AI Malpyeong Competition, National Institute of Korean Language
+- 🧬 **Solo Top 7%**, The 2nd Medical AI Competition, Korea University College of Medicine
 
 ## Experience
 
-- **Research Intern, [CONNECT-AI Research Center](https://connectaiyonsei.wixsite.com/connect-ai) — Yonsei University College of Medicine** · Jul 2026–Present  
+- **Research Intern, [CONNECT-AI Research Center](https://connectaiyonsei.wixsite.com/connect-ai) — Yonsei University College of Medicine, Yonsei University Health System** · Jul 2026–Present  
   On a government-funded project related to Korea's National Fire Agency, I study dialogue state tracking in 119 calls, linking dispatchers' questions to callers' answers to identify which symptoms they report or deny.
 
 - **NAVER Cloud Academy — Generative AI Advanced Program** · May-Jun 2026  
@@ -35,9 +39,11 @@ I'm an AI & Software undergraduate at Gachon University. I'm interested in large
 
 ## Selected Work
 
+My projects span Korean NLP, information retrieval, LLM fine-tuning, and decision support, with applications in cultural heritage, legislative analysis, and emergency medicine.
+
 ### [VITAL](https://github.com/Jaeuk-Han/2025-ermct-project)
 
-**Voice-based Intelligent Triage & Ambulance Link** supports pre-KTAS triage and helps EMS crews select a receiving hospital. I developed the FastAPI hospital recommendation service, which uses travel time and hospital resource data, and helped implement the transport request workflow.
+**Voice-based Intelligent Triage & Ambulance Link** supports triage with interpretable pre-KTAS rules and helps EMS crews select a receiving hospital. I developed the FastAPI service that recommends hospitals in real time using public medical APIs, hospital resource data, and travel times from map-based routing. I also helped implement the transport request workflow.
 
 ### [Korean Grammar QA RAG](https://github.com/Jaeuk-Han/Korean_QA_RAG_2025)
 
@@ -78,13 +84,14 @@ Built an end-to-end representation-learning pipeline for genomic mutations and c
   <a href="https://python-poetry.org/"><img src="https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white"/></a>
 </p>
 
-## Certifications
+## Certifications & Recognition
 
 - **NAVER Cloud Platform Certified Professional AI (NCP-AI)** · 2026
 - **TOPCIT Level 3** · Nov 2025
+- **NAVER Cloud CEO Award — Outstanding Trainee** · 2026
 
 ---
 
 <p align="center">
-  I welcome research collaborations on LLMs and natural language processing.
+  I welcome research collaborations on LLMs, NLP, information retrieval, reliable AI, and human-centered AI systems.
 </p>
